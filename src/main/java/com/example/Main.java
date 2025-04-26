@@ -6,6 +6,10 @@ public class Main {
 
         System.out.println("Hello from Maven!");
 
+
+     System.out.println("🚀 Maven Build Success!");
+     
+
     }
 
 }
