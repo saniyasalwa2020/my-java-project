@@ -35,8 +35,9 @@ jobs:
       run: mvn clean install
 
     - name: Run Java Program
-
-      run: java -cp target/classes com.example.Main
+    
+      run: mvn exec:java
+  
 
  
 
